@@ -1,5 +1,4 @@
-![im_noa](https://user-images.githubusercontent.com/67865617/153259788-ba46ac7a-0233-4966-96bd-263959eb9c9c.gif)
-
+<img src="Images/noa.png">
 
 ## Hi, I'm Noa :wave:
 

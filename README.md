@@ -15,6 +15,8 @@ Responsible, dedicated, great at managing my time, working in a team and getting
 
 
 ### Projects: :bulb:
+#### :car: [Computer Vision Based Navigation](https://github.com/noamoalem/CVBN) 
+
 #### :deciduous_tree: [Red-Black Tree Library](https://github.com/noamoalem/RBTree)
 
 #### :mask: [Corona Apocalypse](https://github.com/noamoalem/CoronaApocalypse)

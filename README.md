@@ -17,9 +17,9 @@ Responsible, dedicated, great at managing my time, working in a team and getting
 ### Projects: :bulb:
 #### :car: [Computer Vision Based Navigation](https://github.com/udidolinski/CVBN)
 
-#### :deciduous_tree: [Red-Black Tree Library](https://github.com/noamoalem/RBTree)
-
 #### :mask: [Corona Apocalypse](https://github.com/noamoalem/CoronaApocalypse)
+
+#### :deciduous_tree: [Red-Black Tree Library](https://github.com/noamoalem/RBTree)
 
 #### In my free time I like to read books :closed_book: and listen to music :headphones:
 

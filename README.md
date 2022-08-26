@@ -26,4 +26,6 @@ Responsible, dedicated, great at managing my time, working in a team and getting
 
 
 ### You can find me :earth_asia:
-[<img src="Images/linkedin_icon.png" width="40" height="41" />](https://www.linkedin.com/in/noa-moalem-bb0750202/)
+[<img src="Images/linkedin_icon.png" width="40" height="41" />](<a href="https://www.linkedin.com/in/noa-moalem-bb0750202/" base target="_blank">)
+
+

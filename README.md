@@ -5,7 +5,7 @@
 
 
 ### About me :pushpin:
-I'm computer science student.
+I'm a software developer.
 Responsible, dedicated, great at managing my time, working in a team and getting things done.
 
 ### Skills: :computer:

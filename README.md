@@ -5,16 +5,15 @@
 
 
 ### About me :pushpin:
-I'm a software developer.
-Responsible, dedicated, great at managing my time, working in a team and getting things done.
+I'm a software developer. Responsible, dedicated, great at managing my time, working in a team and getting things done.
 
-### Skills:  :computer:
+### Skills: :computer:
 #### - **Programming Languages :** Python, C, C++, Java.
 #### - **Operating Systems :** Windows, Linux, macOS.
 #### - **Development Tools :**  PyCharm, CLion, IntelliJ.
 
 
-### Projects:  :bulb:
+### Projects: :bulb:
 #### :car: [Computer Vision Based Navigation](https://github.com/udidolinski/CVBN)
 
 #### :mask: [Corona Apocalypse](https://github.com/noamoalem/CoronaApocalypse)
